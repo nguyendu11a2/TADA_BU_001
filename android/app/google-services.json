@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046961546179",
+    "firebase_url": "https://dclv-5b7dd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dclv-5b7dd",
+    "storage_bucket": "dclv-5b7dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046961546179:android:c3771930713d6f931d1376",
+        "android_client_info": {
+          "package_name": "com.tada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046961546179-qi4n74um1q3vdu9469ng780ajo2rms2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tada",
+            "certificate_hash": "ea8ae1f848c8e557e10ba0dceaabaa2506a8413d"
+          }
+        },
+        {
+          "client_id": "1046961546179-rvaa8h7gkmpe8rpe52k6k91lcde55niu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Q1trNYfWdY6Nzl5jVsBE7dWnlfOF394"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046961546179-rvaa8h7gkmpe8rpe52k6k91lcde55niu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
